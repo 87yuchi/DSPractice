@@ -17,7 +17,7 @@ void dump_role(Role& role) {
     cout << "血量：   " << role.hp << endl;
     cout << "攻擊力： " << role.ap << endl;
     cout << "防禦力： " << role.dp << endl;
-    cout << "精神能量： " << role.so << endl;
+    cout << "精神能量： " << role.sp << endl;
 }
 
 void test_role() {
